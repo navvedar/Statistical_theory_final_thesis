@@ -5,7 +5,7 @@
 This repository contains the code and data used for analyzing the impact of early vs. delayed public health interventions on the spread of COVID-19. The analysis compares confirmed case numbers between countries with early and delayed interventions using statistical methods. It aims to determine whether earlier interventions (such as lockdowns, social distancing, etc.) helped reduce the spread of the virus.
 
 ## Files
-- **`covid_analysis.ipynb`**: Jupyter notebook containing all the code for data analysis and visualization.
+- **`theorical sattistic navve darchi.ipynb`**: Jupyter notebook containing all the code for data analysis and visualization.
 - **`covid_data.csv`**: Dataset used for the analysis, which includes confirmed COVID-19 case data from various countries.
 - **Graphs and Visualizations**:
   - **`early_intervention_cases.png`**: Bar chart showing confirmed cases in early-intervention countries.
